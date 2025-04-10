@@ -2,9 +2,9 @@
 
 ### <div align="center">Gameplay Programmer focused on clean code, modular systems, and meaningful game experiences.</div>
 
-Since 2021, I’ve been studying **Digital Games Technology at Faculdade Melies**, working on several hands-on projects while building a strong foundation in game development.
+Since 2023, I’ve been studying **Digital Games Technology at Faculdade Melies**, working on several hands-on projects while building a strong foundation in game development.
 
-My main tools are **Unity** and **C#**, but I’ve also explored engines like **Unreal** and **Godot**, and languages such as **C++**, **JavaScript**, and **Python**.
+My main tools are **Unity** and **C#**, but I’ve also explored engines like **Unreal** and **Godot**, and languages such as **C++** and **GDScript**.
 
 I’m passionate about writing code that’s clean, modular, and efficient — always aiming to build robust systems that support fun and polished gameplay.
 
@@ -27,9 +27,9 @@ I value code quality just as much as player experience — and I'm always lookin
 ---
 
 ## <img src="https://media.giphy.com/media/cKW0BJ33aO8ZcF7wlo/giphy.gif" width="40"> Where to find me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Márcio_Rosendo-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/marcio-rosendo/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Márcio_Rosendo-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)]([https://www.linkedin.com/in/marcio-rosendo/](https://www.linkedin.com/in/márcio-rosendo-filho/))
 [![GitHub](https://img.shields.io/badge/GitHub-marcio--rosendo-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)](https://github.com/marcio-rosendo)
-[![Itch.io](https://img.shields.io/badge/Itch.io-my_games-fa5c5c?style=for-the-badge&logo=itchdotio&logoColor=white&labelColor=101010)](https://marciorosendo.itch.io)
+[![Itch.io](https://img.shields.io/badge/Itch.io-Márcio_Rosendo-fa5c5c?style=for-the-badge&logo=itchdotio&logoColor=white&labelColor=101010)]([https://marciorosendo.itch.io](https://marcio-rosendo.itch.io))
 
 ---
 
