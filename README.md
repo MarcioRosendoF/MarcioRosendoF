@@ -1,14 +1,11 @@
 <h1 align="center">Hi, I'm Márcio Rosendo 👋</h1>
+<div align="center">Gameplay Programmer focused on clean architecture, scalable systems and meaningful game experiences.</div>
 
-### <div align="center">Gameplay Programmer focused on clean code, modular systems, and meaningful game experiences.</div>
+Since 2023, I’ve been studying Digital Games Technology at Faculdade Melies and developing a wide range of gameplay systems for different projects. I work mainly with Unity and C#, building features that balance technical quality with player experience.
 
-Since 2023, I’ve been studying **Digital Games Technology at Faculdade Melies**, working on several hands-on projects while building a strong foundation in game development.
+I focus on creating clean, modular and maintainable code that supports real production needs. Throughout my projects, I have implemented complex systems such as inventory architectures with tabs, drag and drop and context menus, puzzle mechanics synced over Photon, boss fight logic with state machines, interactive UI frameworks, dynamic event systems, visual feedback pipelines and screen effects using ScriptableObjects. I also work with DOTween, UniTask and composition-based designs to create scalable solutions that stay easy to iterate on.
 
-My main tools are **Unity** and **C#**, but I’ve also explored engines like **Unreal** and **Godot**, and languages such as **C++** and **GDScript**.
-
-I’m passionate about writing code that’s clean, modular, and efficient — always aiming to build robust systems that support fun and polished gameplay.
-
-I value code quality just as much as player experience — and I'm always looking for better ways to create games with purpose.
+I enjoy building systems that feel solid and intuitive for both players and developers. Every feature I create aims to be robust, flexible and ready to grow with the project. My goal is always the same: deliver gameplay that is polished, responsive and supported by code I can trust in a real production environment.
 
 ---
 
@@ -16,12 +13,11 @@ I value code quality just as much as player experience — and I'm always lookin
 
 ![C#](https://img.shields.io/badge/C%23-8a2be2?style=for-the-badge&logo=csharp&logoColor=white&labelColor=101010)
 ![Unity](https://img.shields.io/badge/Unity-20232a?style=for-the-badge&logo=unity&logoColor=white&labelColor=101010)
-![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-0d0d0d?style=for-the-badge&logo=unrealengine&logoColor=white&labelColor=101010)
-![Godot](https://img.shields.io/badge/Godot-478cbf?style=for-the-badge&logo=godotengine&logoColor=white&labelColor=101010)
 ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white&labelColor=101010)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=101010)
-![Photon](https://img.shields.io/badge/Photon_Unity_Networking-0097ff?style=for-the-badge&logo=unity&logoColor=white&labelColor=101010)
+![Photon](https://img.shields.io/badge/Photon_PUN-0097ff?style=for-the-badge&logo=photon&logoColor=white&labelColor=101010)
+![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white&labelColor=101010)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white&labelColor=101010)
 
 
 ---
