@@ -61,17 +61,11 @@ and moved through security, event-driven messaging, caching and CI/CD, with each
 
 ---
 
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MarcioRosendoF&show_icons=true&theme=dark&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcioRosendoF&layout=compact&theme=dark&hide_border=true)
-
----
-
 ## Where to find me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Márcio_Rosendo-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/márcio-rosendo-filho/)
 [![GitHub](https://img.shields.io/badge/GitHub-MarcioRosendoF-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)](https://github.com/MarcioRosendoF)
+[![Portfolio](https://img.shields.io/badge/Portfolio-marciorosendo.com-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=101010)](https://marciorosendo.com)
 [![Itch.io](https://img.shields.io/badge/Itch.io-Márcio_Rosendo-fa5c5c?style=for-the-badge&logo=itchdotio&logoColor=white&labelColor=101010)](https://marcio-rosendo.itch.io)
 
 ---
